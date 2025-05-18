@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-torchw ith cpu only
+torchcpu
 Pillow
 
